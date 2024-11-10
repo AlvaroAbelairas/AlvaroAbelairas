@@ -9,7 +9,7 @@ Soy apasionado del análisis de datos y el marketing digital y mi objetivo es se
 - [Certificaciones](https://github.com/AlvaroAbelairas/Certifications): Recopilación de mis certificaciones en herramientas de marketing digital y análisis de datos.
 - [Experiencia Profesional](https://github.com/AlvaroAbelairas/Experiencia_Profesional): Descripción de mi experiencia laboral y habilidades adquiridas en cada puesto.
 - [Educación](https://github.com/AlvaroAbelairas/Educacion): Mi formación académica en administración, marketing digital y ciencia de datos.
-- [TFM - Análisis y Predicción de Precios para Airbnb](https://github.com/AlvaroAbelairas/TFM_Analisis_Precios_Airbnb_Valencia): Proyecto de TFM en el que aplico técnicas de Machine Learning para analizar y predecir precios de alojamientos en Valencia.
+
 
 ### 🌐 Conéctate conmigo
 
